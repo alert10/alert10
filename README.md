@@ -18,8 +18,8 @@ Desktop notifications the easy way...
 <script>
   function notification() {
     alert10({
-      title: "Netflix",
-      body: "Watch Now: Spirited Away",
+      title: "New Message",
+      body: "You have 3 new notifications",
       icon: "https://api.dicebear.com/9.x/identicon/svg",
     });
   }
