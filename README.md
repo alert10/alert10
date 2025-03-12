@@ -8,8 +8,12 @@ Desktop notifications the easy way...
 ## Installation
 
 ```html
-<script src="https://unpkg.com/alert10/dist/alert10.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/alert10/alert10@main/dist/alert10.min.js"></script>
 ```
+
+<!--```html
+<script src="https://cdn.jsdelivr.net/npm/alert10/dist/alert10.min.js"></script>
+```-->
 
 ## Usage
 
